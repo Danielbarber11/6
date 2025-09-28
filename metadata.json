@@ -1,0 +1,8 @@
+{
+  "name": "Aiven AI",
+  "description": "A Hebrew AI assistant powered by Gemini, featuring chat, live voice conversations, image generation, image editing, and video creation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
